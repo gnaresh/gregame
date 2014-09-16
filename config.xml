@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.greg.speedmath" version="1.0.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.raghuvarya.speedmath" version="1.0.0.1">
 
 	<name>Speed Math</name>
 	<description>A quick way to power your mind with speed math. Play, Test, and Score.</description>
@@ -18,5 +18,5 @@
 
 	<!-- Optional splash screen image, e.g.: -->
 	<!-- <gap:splash src="splash.png" width="1024" height="768" /> -->
-	 <gap:platform name="android" />
+
 </widget>
