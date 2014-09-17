@@ -20,4 +20,5 @@
 	<!-- <gap:splash src="splash.png" width="1024" height="768" /> -->
 
 	 <gap:platform name="android" />
+	 <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
 </widget>
