@@ -19646,7 +19646,7 @@ cr.getProjectModel = function() { return [
 			false,
 			8270924279969579,
 			[
-				["images/resume-sheet0.png", 1457, 0, 0, 128, 128, 1, 0.5, 0.5,[],[-0.3671869933605194,-0.3671869933605194,0,-0.234375,0.40625,0,0,0.2265629768371582,-0.3671869933605194,0.3671879768371582],0]
+				["images/resume-sheet0.png", 1537, 0, 0, 128, 128, 1, 0.5, 0.5,[],[-0.3671869933605194,-0.3671869933605194,0,-0.234375,0.40625,0,0,0.2265629768371582,-0.3671869933605194,0.3671879768371582],0]
 			]
 			]
 		],
@@ -24971,71 +24971,6 @@ cr.getProjectModel = function() { return [
 				false,
 				4884570648334242,
 				false
-			]
-			],
-			[
-			[
-				44,
-				cr.plugins_.Phonegap.prototype.acts.SetMenus,
-				null,
-				1185998579111902,
-				false
-				,[
-				[
-					1,
-					[
-						2,
-						"exit"
-					]
-				]
-				]
-			]
-,			[
-				44,
-				cr.plugins_.Phonegap.prototype.acts.ShowMenus,
-				null,
-				9256220257137515,
-				false
-			]
-			]
-		]
-,		[
-			0,
-			null,
-			false,
-			null,
-			5223330473998533,
-			[
-			[
-				44,
-				cr.plugins_.Phonegap.prototype.cnds.OnMenuSelected,
-				null,
-				1,
-				false,
-				false,
-				false,
-				1286130761587806,
-				false
-			]
-,			[
-				44,
-				cr.plugins_.Phonegap.prototype.cnds.SelectedMenuIs,
-				null,
-				0,
-				false,
-				false,
-				false,
-				3981875979743929,
-				false
-				,[
-				[
-					1,
-					[
-						2,
-						"exit"
-					]
-				]
-				]
 			]
 			],
 			[
